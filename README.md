@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-		<img src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png)" alt="flask" width="40" height="40"/>
+		<img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="40" height="40"/>
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
