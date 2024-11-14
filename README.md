@@ -43,7 +43,7 @@
 	<a href="https://linkedin.com/in/a" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" />
 	</a>-->
-	<a href="https://stackoverflow.com/users/a" target="blank">
+	<a href="https://stackoverflow.com/users/12704883/sumit-kaware?tab=profile" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="a" height="30" width="40" />
 	</a>
 	<!---<a href="https://codesandbox.com/b" target="blank">
@@ -55,7 +55,7 @@
 	<a href="https://fb.com/a" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a" height="30" width="40" />
 	</a>-->
-	<a href="https://instagram.com/a" target="blank">
+	<a href="https://www.instagram.com/sumit.kaware/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" />
 	</a>
 	<!---<a href="https://dribbble.com/a" target="blank">
