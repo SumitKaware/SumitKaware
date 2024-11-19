@@ -85,7 +85,7 @@
 	<a href="https://leetcode.com/u/user1374Ut/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a" height="30" width="40" />
 	</a>
-	<a href="https://www.hackerearth.com/a" target="blank">
+	<a href="https://www.hackerearth.com/@sumit2154/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="a" height="30" width="40" />
 	</a>
 	<!---<a href="https://auth.geeksforgeeks.org/user/a" target="blank">
