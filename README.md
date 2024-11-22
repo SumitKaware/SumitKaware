@@ -4,16 +4,7 @@
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 📫 How to reach me: sumit.kaware3@gmail.com
 - 😄 Pronouns: He/Him-->
-<head>
-<style>
-body {
-  background-image: url('img_girl.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-}
-</style>
-</head>
+
 <h1 align="center">Hi 👋, I'm Sumit Kaware</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
