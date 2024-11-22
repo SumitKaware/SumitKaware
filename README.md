@@ -180,9 +180,8 @@
 <br />
 <p>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkaware&show_icons=true&locale=en&layout=compact" alt="sumitkaware" />
-</p><br />
-<br />
-<p>&nbsp;
+</p>
+<p>&nbsp;&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkaware&show_icons=true&locale=en" alt="sumitkaware" />
 </p><br />
 <br />
