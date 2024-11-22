@@ -46,7 +46,7 @@
 	</a>-->
 	<a href="https://stackoverflow.com/users/12704883/sumit-kaware?tab=profile" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="a" height="30" width="40" />
-	</a>
+	</a>&nbsp;
 	<!---<a href="https://codesandbox.com/b" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="b" height="30" width="40" />
 	</a>
@@ -76,7 +76,7 @@
 	</a>-->
 	<a href="https://www.codechef.com/users/sumitkaware" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a" height="30" width="40" />
-	</a>
+	</a>&nbsp;
 	<a href="https://www.hackerrank.com/profile/sumit_kaware3" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a" height="30" width="40" />
 	</a>
