@@ -85,10 +85,10 @@
 	</a>-->
 	<a href="https://leetcode.com/u/user1374Ut/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a" height="30" width="40" />
-	</a>
+	</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.hackerearth.com/@sumit2154/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="a" height="30" width="40" />
-	</a>
+	</a>&nbsp;&nbsp;&nbsp;
 	<!---<a href="https://auth.geeksforgeeks.org/user/a" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="a" height="30" width="40" />
 	</a>
@@ -98,9 +98,7 @@
 	<a href="https://discord.gg/a" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" />
 	</a>-->
-	<a href="/a" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="a" height="30" width="40" />
-	</a>
+	
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
