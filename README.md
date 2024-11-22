@@ -184,7 +184,7 @@
 <p>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkaware&show_icons=true&locale=en" alt="sumitkaware" />
 </p>
-<!---<p>
+<p>
 	<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkaware&" alt="sumitkaware" />
-</p>-->
+</p>
 
