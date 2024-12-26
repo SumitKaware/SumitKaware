@@ -126,7 +126,7 @@
 	</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-	</a>
+	</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 		<img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="40" height="40"/>
 	</a>
