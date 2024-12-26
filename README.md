@@ -129,7 +129,7 @@
 	</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 		<img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="40" height="40"/>
-	</a>
+	</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 	</a>
