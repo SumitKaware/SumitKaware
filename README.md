@@ -15,12 +15,12 @@
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=sumitkaware&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkaware" />
 </p>
-<p align="left">
+<!---<p align="left">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=sumitkaware" alt="sumitkaware" />
 	</a>
 </p>
-<!---<p align="left">
+<p align="left">
 	<a href="https://x.com/KawareSumit" target="blank">
 		<img src="https://img.shields.io/twitter/follow/a?logo=twitter&style=for-the-badge" alt="a" />
 	</a>
