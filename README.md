@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him-->
 
 <h1 align="center">Hi 👋, I'm Sumit Kaware</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate AI Engineer from India</h3>
 
 ![snake gif](https://github.com/SumitKaware/SumitKaware/blob/output/github-contribution-grid-snake-dark.svg)
 
